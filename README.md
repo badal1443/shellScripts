@@ -12,6 +12,8 @@ whoami; pwd;
 2. || (If first one fails , second gets excuted.)
     foo || pwd
 
+### file command
+type of file
 
 ### replacement using carrot operator
 ** if uou want to replace a word or phrase in a command last run
